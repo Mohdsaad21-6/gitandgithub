@@ -1,4 +1,5 @@
 # gitandgithub
 this is my first repository
 <br>
-Author mohd saad ansari 
+author mohd saad ansari
+my name is fahad
